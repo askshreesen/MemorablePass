@@ -1,0 +1,8 @@
+{
+  "name": "VaultPhrase",
+  "description": "A privacy-first, offline-only human-readable password and seed phrase generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
